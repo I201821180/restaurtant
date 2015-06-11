@@ -36,7 +36,7 @@ Back to `root` then switch to user `catalog` set up the app using
 
 Navigate to `/var/www` and clone the app from github.
 	
-	git clone https://github.com/nickyfoto/test.git catalog
+	git clone https://github.com/nickyfoto/restaurtant.git catalog
 	
 rename and database setup
 	
